@@ -23,13 +23,6 @@ The electron video player is developed to be a simple and intuitive desktop app 
 |enter|toggle play/pause|
 |esc|exit fullscreen|
 
-# Screenshots
-
-![electron video player](https://github.com/RIAEvangelist/electron-video-player/blob/master/screenshots/elPlay-s.png)  
-![electron video player](https://github.com/RIAEvangelist/electron-video-player/blob/master/screenshots/paused.png)  
-![electron video player](https://github.com/RIAEvangelist/electron-video-player/blob/master/screenshots/fsPlaying.png)  
-![electron video player](https://github.com/RIAEvangelist/electron-video-player/blob/master/screenshots/smallplaying.png)   
-![electron video player](https://github.com/RIAEvangelist/electron-video-player/blob/master/screenshots/smControls.png)   
 
 ### Contributing  
 Please feel free to fork and contribute, we know you have good ideas and we would love to incorporate them to benifit everyone's experience.
